@@ -1,0 +1,106 @@
+<html>
+<head> 
+<style>
+table{
+border-collapse:collapse;
+}
+table,th,td{
+border:1px solid black
+}
+</style><title> <h1 > one plus </h1> </title> </head>
+<body style="background-color:lightblue;">
+<marquee><h2 style="color:dark black;font-family:algerian;text-align:center;">one plus</h2></marquee>
+<h3 style="color:red">mobile phone</h3>
+<ol>
+<li>vivo
+<li>oppo
+</ol>
+<h3 style="color:red" >cell phone</h3>
+<ul>
+<li>one plus
+<li>i phone
+</ul>
+<p>OnePlus 6
+OnePlus 6 Front1.jpg
+Codename	enchilada
+Brand	OnePlus
+Manufacturer	OnePlus
+Slogan	The Speed You Need[1]
+Model	A6000, A6003
+Compatible networks	2G, 3G, and 4G
+First released	May 22, 2018; 3 months ago
+Predecessor	OnePlus 5T
+Type	Phablet
+Form factor	Slate
+Dimensions	155.7 mm (6.13 in) H 
+75.4 mm (2.97 in) W 
+7.75 mm (0.305 in) D
+Weight	177 g (6.2 oz)
+Operating system	OxygenOS (based on Android)
+System on chip	Qualcomm Snapdragon 845[2]
+CPU	Octa-core (4×2.8 GHz + 4×1.8 GHz) Kryo
+GPU	Adreno 630
+Memory	6 or 8 GB LPDDR4X RAM
+Storage	64, 128, or 256 GB UFS 2.1
+Battery	3,300 mAh Li-Ion with Dash Charge technology
+Data inputs	
+Fingerprint scanner (rear-mounted),
+Accelerometer,
+gyroscope,
+proximity sensor,
+electronic compass
+Display	6.28 in (160 mm) 1080p (2280 ×1080 pixels) Full-HD+ Optic AMOLED / DCI-P3 (401 ppi) with 19:9 aspect ratio
+Rear camera	16 MP Sony Exmor IMX519 (f/1.7, OIS + EIS) + 20 MP Sony Exmor IMX376K (f/1.7), phase detection autofocus, dual-LED flash, Video 4K at 30 or 60fps, 1080p at 30, 60 or 240 fps, 720p at 30 or 480 fps
+Front camera	16 MP Sony Exmor IMX371 (f/2.0, EIS, HDR), Video 1080p at 30 fps, 720p at 30 fps
+Connectivity	3G, 4G VoLTE, Bluetooth 5.0 with aptX, NFC, 2x2 MIMO WiFi 802.11a/b/g/n/ac, GPS, GLONASS, BeiDou and Galileo, USB-C
+Website	oneplus.com/6
+The OnePlus 6 is an Android smartphone made by OnePlus. It was unveiled on 16 May 2018 and went on sale on 22 May 2018.[3]
+
+
+Contents
+1	History
+2	Specifications
+2.1	Hardware
+2.2	Software
+2.3	Network compatibility
+3	References
+4	External Links
+
+
+
+
+</p>
+<a href="file:///C:/Users/Administrator/Desktop/2.html">click here for a link</a><br>
+<img src="oneplus'.jpg" alt="one plus" width="1280 pixels" height="720 pixels">
+<table >
+  <tr>
+    <th>S.No</th>
+    <th>Name</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Jackson</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Doe</td>
+    <td>29</td>
+  </tr>
+</table>
+
+<br><button>next</button>
+</body>
+</html>
+
+
+
+
+
+
